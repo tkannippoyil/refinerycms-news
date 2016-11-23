@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors           = %w(Resolve\ Digital)
   s.require_paths     = %w(lib)
 
-  s.add_dependency    'refinerycms-core', '~> 1.0.0'
+  s.add_dependency    'refinerycms-core', '~> 2.0.10'
 
   s.files             = [
     'app',
